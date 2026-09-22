@@ -1,21 +1,14 @@
-<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,36&height=200&section=header&text=Hi%20there,%20I'm%20Kila Sigma%20👋&fontSize=38&fontColor=fff&animation=fadeIn" width="100%" />
+
+  <h1>✨ Hi there, I'm Kila! 👋</h1>
+  <p><b>Mahasiswa Sistem Informasi & Pemikir Kreatif 💫</b></p>
+  <p>Menjelajahi Desain UI/UX, Arsitektur Sistem, & Kreativitas Digital</p>
+
 </div>
-
-<br/>
-
-<!-- INTRO & BIO -->
-<div align="center">
-  <h3>✨ Information Systems Student & Creative Thinker ✨</h3>
-  <p>Exploring UI/UX Design, System Architecture, & Digital Creativity 💫</p>
-</div>
-
-<br/>
 
 ---
 
-### 🎨 Design & Tools I Use
+### 🎨 Desain & Alat yang Saya Gunakan
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -27,23 +20,16 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Aktivitas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kilaastarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilaastarr&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<!-- Alternatif Streak Stats yang lebih stabil -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilaastarr&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kilaastarr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilaastarr&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 ---
 
-### 🌐 Find Me On
+### 🌐 Temukan Saya Di
 
 <p align="left">
   <a href="https://instagram.com/__nbhit4khilla" target="_blank">
@@ -56,4 +42,3 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
