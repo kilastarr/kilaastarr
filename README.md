@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,36&height=200&section=header&text=Hi%20there,%20I'm%20Kila%20👋&fontSize=38&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,36&height=200&section=header&text=Hi%20there,%20I'm%20Kila Sigma%20👋&fontSize=38&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
