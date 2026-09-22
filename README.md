@@ -2,23 +2,22 @@
 
   <h1>✨ Hai, aku Kila! 👋</h1>
   <p><b>Mahasiswa Sistem Informasi & Pemikir Kreatif 💫</b></p>
-  <p>Menjelajahi Desain UI/UX, Arsitektur Sistem, & Kreativitas Digital</p>
+  <p><i>Menjelajahi Desain UI/UX, Arsitektur Sistem, & Kreativitas Digital</i></p>
 
 </div>
 
 ---
 
-### 💫 Quick Peek
+### 💫 Sekilas Pandang
 
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Loves+UI%2FUX+%26+Creative+Design;Passionate+about+System+Architecture;Building+cool+%26+aesthetic+things;Welcome+to+my+profile!+✨" alt="Typing SVG" />
-  </a>
-</div>
+> 🎨 **Suka Desain UI/UX & Desain Kreatif**  
+> 🏗️ **Ketertarikan pada Arsitektur Sistem**  
+> ✨ **Membuat Hal-hal Unik & Estetik**  
+> 👋 **Selamat datang di profilku!**
 
 ---
 
-### 🎮 Games I Play
+### 🎮 Game yang Saya Mainkan
 
 <p align="left">
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
@@ -37,14 +36,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🎵 Listening to Spotify / Discord Status
-
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/kilaastarr_?theme=dark&bg=1a1b26&animated=true&hideDiscrim=true" alt="Discord & Spotify Status" />
-</div>
 
 ---
 
