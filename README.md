@@ -23,10 +23,8 @@
 ### 📊 Aktivitas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilaastarr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilaastarr&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilaastarr&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
-
 ---
 
 ### 🌐 Temukan Saya Di
