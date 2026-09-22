@@ -8,6 +8,26 @@
 
 ---
 
+### 💫 Quick Peek
+
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Loves+UI%2FUX+%26+Creative+Design;Passionate+about+System+Architecture;Building+cool+%26+aesthetic+things;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+### 🎮 Games I Play
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heartopia-FFB6C1?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white" />
+</p>
+
+---
+
 ### 🎨 Desain & Alat yang Saya Gunakan
 
 <p align="left">
@@ -20,10 +40,10 @@
 
 ---
 
-### 💭 Daily Quote
+### 🎵 Listening to Spotify / Discord Status
 
 <div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&author=true" />
+  <img src="https://lanyard.cnrad.dev/api/kilaastarr_?theme=dark&bg=1a1b26&animated=true&hideDiscrim=true" alt="Discord & Spotify Status" />
 </div>
 
 ---
