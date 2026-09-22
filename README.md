@@ -30,14 +30,15 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kilastarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilastarr&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kilaastarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilaastarr&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
 
+<!-- Alternatif Streak Stats yang lebih stabil -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilastarr&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilaastarr&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -55,3 +56,4 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
