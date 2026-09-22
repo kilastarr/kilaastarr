@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✨ Hi there, I'm Kila! 👋</h1>
+  <h1>✨ Hai, aku Kila! 👋</h1>
   <p><b>Mahasiswa Sistem Informasi & Pemikir Kreatif 💫</b></p>
   <p>Menjelajahi Desain UI/UX, Arsitektur Sistem, & Kreativitas Digital</p>
 
@@ -20,11 +20,12 @@
 
 ---
 
-### 📊 Aktivitas GitHub
+### 💭 Daily Quote
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilaastarr&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&author=true" />
 </div>
+
 ---
 
 ### 🌐 Temukan Saya Di
