@@ -18,6 +18,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=Saya+tidak+malas...;Saya+hanya+menghemat+energi+✨;Saving+battery+mode%3A+ON+🔋" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
 ### 🎨 Desain & Alat yang Saya Gunakan
 
 <p align="left">
