@@ -8,15 +8,6 @@
 
 ---
 
-### 💫 Sekilas Pandang
-
-> 🎨 **Suka Desain UI/UX & Desain Kreatif**  
-> 🏗️ **Ketertarikan pada Arsitektur Sistem**  
-> ✨ **Membuat Hal-hal Unik & Estetik**  
-> 👋 **Selamat datang di profilku!**
-
----
-
 ### 🎮 Game yang Saya Mainkan
 
 <p align="left">
